@@ -10,7 +10,6 @@
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/dion-humphrey/)
 [![Static Badge](https://img.shields.io/badge/%40%20Email-602ad2)](mailto:humphreydion@yahoo.com?subject=Hello!)
 
-
 <!--About Me-->
 # 👋 Hi there :
 <p>My name is Dion and I'm a recent graduate from the University of Georgia. I obtained a degree in Computer Science with a certifcate
@@ -41,11 +40,10 @@ in Applied Data Science</p>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java Swing](https://img.shields.io/badge/java-swing%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![Java Swing](https://img.shields.io/badge/Java_Swing-db2f2d?style=for-the-badge)
 
 <!--Repositories/Projects-->
-# Repositories :
+# 👨‍💻 Repositories :
 
 > DCC - Movie Review Website `v1.0`
 >
