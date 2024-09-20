@@ -16,7 +16,7 @@
 in Applied Data Science</p>
 <p>🔭 I’m currently working on Tactical Emblem Hub, a website developed using Python, Flask, SQLite, and SQLAlchemy, which helps manage Fire Emblem characters, teams, and strategies.</p>
 <p>🌱 I’m currently learning Powershell Script and C# </p>
-<p>🎮 I am interested in video games and 3D printing.</p>
+<p>🎮 I'm interested in video games and 3D printing.</p>
 
 <!--Tech Stack-->
 <!--Java, Python, C, C++, SQL (MySQL, SQLite), JavaScript, HTML, CSS, Matlab, Flask, Express.js, Docker, Google Cloud Platform, VS Code, AWS, MongoDB, Figma, React, Node.js, Pandas, NumPy, Matplotlib, Scikit-learn, Java SpringBoot, Java Swing, SQLAlchemy-->
@@ -49,7 +49,7 @@ in Applied Data Science</p>
 >
 > A movie review website made by a team a three using the MERN stack. 
 >
-> `React`, `CSS`, `MongoDB`, `Express.js`, `Node.js`, `Git`
+> `React`, `JavaScript`, `CSS`, `MongoDB`, `Express.js`, `Node.js`, `Git`
 >
 > <a href="https://github.com/ccchitwood/4300MovieSite"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
 
@@ -58,7 +58,7 @@ in Applied Data Science</p>
 >
 > An E-Cinema Booking website made by team of five using React.js, CSS, Java Spring Boot, and MySQL.
 >
-> `React`, `CSS`, `Java Spring Boot`, `MySQL`, `Agile`, `Scrum`, `Git`
+> `React`, `JavaScript`, `CSS`, `Java Spring Boot`, `MySQL`, `Agile`, `Scrum`, `Git`
 >
 > <a href="https://github.com/MenaceHecker/bookit"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
 
