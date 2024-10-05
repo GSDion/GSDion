@@ -12,7 +12,7 @@
 
 <!--About Me-->
 # 👋 Hi there :
-<p>My name is Dion and I'm a recently obtained a degree in Computer Science with a certifcate
+<p>My name is Dion and I recently obtained a degree in Computer Science with a certifcate
 in Applied Data Science</p>
 <p>🔭 I’m currently working on Tactical Emblem Hub, a website developed using Python, Flask, SQLite, and SQLAlchemy, which helps manage Fire Emblem characters, teams, and strategies.</p>
 <p>🌱 I’m currently learning Powershell Script and C# </p>
