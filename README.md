@@ -1,7 +1,7 @@
 <!--Name Introduction-->
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubunto+Mono&weight=700&size=35&duration=3000&pause=500&color=42F770&multiline=true&width=650&height=140&lines=%24Whoami;Dion+Humphrey" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubunto+Mono&weight=700&size=35&duration=3000&pause=500&color=42F770&multiline=true&width=650&height=140&lines=%24whoami;Dion+Humphrey" alt="Title GitHub Readme" />
   </a>
   
 </h1>
