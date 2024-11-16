@@ -65,6 +65,14 @@ in Applied Data Science</p>
 >
 > <a href="https://github.com/MenaceHecker/bookit"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
 
+> StackTrack - Library Management System `v1.0`
+>
+> A Library Management System designed to streamline the process of managing library users and books.
+>
+> `Java`, `Java Swing`, `MySQL`, `Git`
+>
+> <a href="https://github.com/GSDion/Lib-Mgmt-Sys"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
+
 
 <!--
 **GSDion/GSDion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
