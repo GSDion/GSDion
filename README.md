@@ -73,6 +73,14 @@ in Applied Data Science</p>
 >
 > <a href="https://github.com/GSDion/Lib-Mgmt-Sys"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
 
+> My Personal Website `v2.0`
+>
+> My personal website, which features an about section, skills section, projects section, and contact section.
+>
+> `React`, `BootStrap`, `JavaScript`, `CSS`, `HTML`
+>
+> <a href="https://github.com/GSDion/Lib-Mgmt-Sys"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
+
 
 <!--
 **GSDion/GSDion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
