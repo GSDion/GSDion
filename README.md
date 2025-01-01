@@ -79,7 +79,7 @@ in Applied Data Science</p>
 >
 > `React`, `BootStrap`, `JavaScript`, `CSS`, `HTML`
 >
-> <a href="https://github.com/GSDion/Lib-Mgmt-Sys"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
+> <a href="https://github.com/GSDion/dh-website-v2"><img src="https://img.shields.io/badge/Github-42F770?style=for-the-badge" height="28"></a>
 
 
 <!--
