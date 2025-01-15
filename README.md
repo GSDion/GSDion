@@ -6,17 +6,17 @@
   
 </h1>
 
-<!--Social Media Links (LinkedIn, Email, Website (later)-->
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/dion-humphrey/)
-[![Static Badge](https://img.shields.io/badge/%40%20Email-602ad2)](mailto:humphreydion@yahoo.com?subject=Hello!)
+<!--Contact-->
+[![Static Badge](https://img.shields.io/badge/Email-42F770?style=for-the-badge&logoColor=white)](mailto:humphreydion@yahoo.com?subject=Hello!)
 
 <!--About Me-->
 # 👋 Hi there :
-<p>My name is Dion and I recently obtained a degree in Computer Science with a certifcate
+<p>My name is Dion and I recently obtained a degree in Computer Science with a certificate
 in Applied Data Science</p>
 <p>🔭 I’m currently working on Tactical Emblem Hub, a website developed using Python, Flask, SQLite, and SQLAlchemy, which helps manage Fire Emblem characters, teams, and strategies.</p>
 <p>🌱 I’m currently learning Powershell Script and C# </p>
-<p>🎮 I'm interested in video games and 3D printing.</p>
+<!-- 📫 How to reach me: [![Static Badge](https://img.shields.io/badge/Email-42F770?style=for-the-badge&logoColor=white)](mailto:humphreydion@yahoo.com?subject=Hello!) -->
+
 
 <!--Tech Stack-->
 <!--Java, Python, C, C++, SQL (MySQL, SQLite), JavaScript, HTML, CSS, Matlab, Flask, Express.js, Docker, Google Cloud Platform, VS Code, AWS, MongoDB, Figma, React, Node.js, Pandas, NumPy, Matplotlib, Scikit-learn, Java SpringBoot, Java Swing, SQLAlchemy-->
