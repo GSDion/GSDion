@@ -11,9 +11,7 @@
 
 <!--About Me-->
 # 👋 Hi there :
-<p>My name is Dion and I recently obtained a degree in Computer Science with a certificate
-in Applied Data Science</p>
-<p>🔭 I’m currently working on Tactical Emblem Hub, a website developed using Python, Flask, SQLite, and SQLAlchemy, which helps manage Fire Emblem characters, teams, and strategies.</p>
+<p>My name is Dion.</p>
 <p>🌱 I’m currently learning Powershell Script and C# </p>
 <!-- 📫 How to reach me: [![Static Badge](https://img.shields.io/badge/Email-42F770?style=for-the-badge&logoColor=white)](mailto:humphreydion@yahoo.com?subject=Hello!) -->
 
