@@ -10,9 +10,9 @@
 [![Static Badge](https://img.shields.io/badge/Email-42F770?style=for-the-badge&logoColor=white)](mailto:humphreydion@yahoo.com?subject=Hello!)
 
 <!--About Me-->
-# 👋 Hi there :
+<!-- # 👋 Hi there :
 <p>My name is Dion.</p>
-<p>🌱 I’m currently learning Powershell Script and C# </p>
+<p>🌱 I’m currently learning Powershell Script and C# </p> -->
 <!-- 📫 How to reach me: [![Static Badge](https://img.shields.io/badge/Email-42F770?style=for-the-badge&logoColor=white)](mailto:humphreydion@yahoo.com?subject=Hello!) -->
 
 
